@@ -1,4 +1,6 @@
-## 这是我配置的 Sublime Texe3 集成插件包，linux版，windows可能有的插件不太兼容，我比较喜欢简洁，所以界面不是很华丽，上图吧![Alt text](https://raw.githubusercontent.com/achuanya/packages/master/image/sublime.png "sublime")
+## 这是我配置的Sublime集成插件包,因为我使用的是linux版，所以windows使用的话有些功能可能不能正常使用。  我比较喜欢简洁，所以界面不是很华丽，上图!
+
+[Alt text](https://raw.githubusercontent.com/achuanya/packages/master/image/sublime.png "sublime")
 
 ## 含插件如下：
 
