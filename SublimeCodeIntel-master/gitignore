@@ -1,0 +1,14 @@
+.DS_Store
+.no-sublime-package
+
+.git
+.hg
+.svn
+
+*.pyc
+*.pyo
+*.o
+
+*.egg-info
+build
+dist

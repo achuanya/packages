@@ -1,0 +1,14 @@
+{
+    "search_colors_in": {
+        "all_content": {
+            "enabled": true,
+            "color_highlighters": {
+                "color_scheme": {
+                    // 主要是修改这两项
+                    "enabled": true,
+                    "highlight_style": "filled" // 填充的意思
+                }
+            }
+        }
+    }
+}

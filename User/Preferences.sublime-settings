@@ -1,0 +1,17 @@
+{
+	"auto_complete": false,
+	"color_scheme": "Packages/colorsublime- theme/Active4D.tmTheme",
+	"command": "open_in_browser",
+	"font_face": "Source Code Pro, 'Courier New', monspace",
+	"font_size": 11,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"keys":
+	[
+		"alt+shlft+z"
+	],
+	"theme": "Boxy Yesterday.sublime-theme"
+
+}

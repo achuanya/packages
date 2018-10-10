@@ -1,0 +1,28 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AngularJS",
+		"AutoFileName",
+		"Boxy Theme",
+		"ChineseLocalizations",
+		"Color Highlighter",
+		"ColorPicker",
+		"Colorsublime",
+		"ConvertToUTF8",
+		"DocBlockr",
+		"Emmet",
+		"LiveReload",
+		"Material Theme",
+		"Package Control",
+		"SublimeLinter-jshint",
+		"SublimeLinter-php",
+		"SublimeTmpl",
+		"SyntaxHighlighter Reloaded Color Scheme",
+		"Themr",
+		"View In Browser"
+	]
+}
