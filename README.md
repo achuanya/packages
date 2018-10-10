@@ -22,7 +22,7 @@
 
 ## 配置
 
-### Color Highlight 配置
+#### Color Highlight 配置
 
         Preferences -> Package Settings -> Color Highlighter -> Settings - User,
 
@@ -43,7 +43,7 @@
             }
         } 然后重启 Sublime 就可以了。
 
-### CDocBlockr 配置
+#### CDocBlockr 配置
  
             Preferences -> Package Settings -> DocBlockr -> Settings - User,
 
@@ -59,7 +59,7 @@
         ],
         "jsdocs_function_description": false   }
 
-### 个人用户设置
+#### 个人用户设置
 
 我不太喜欢代码提示就给关了，需要用的话注释掉就可以  
 
@@ -84,11 +84,11 @@
 值得一提的是字体！＂Source Code Pro＂
 号称最美编程字体Adobe旗下一款开源字体,下面咱们开始安装
 
-### cp TTF文件夹下的内容到 /usr/share/fonts/truetype/ 目录
+#### cp TTF文件夹下的内容到 /usr/share/fonts/truetype/ 目录
 
         sudo cp -r source-code-pro/TTF/ /usr/share/fonts/truetype/source-code-pro
 
-### 再执行
+#### 再执行
 
         $ sudo fc-cache -f -v
 
